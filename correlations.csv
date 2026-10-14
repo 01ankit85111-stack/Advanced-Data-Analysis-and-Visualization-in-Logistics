@@ -1,0 +1,7 @@
+,distance_km,volume_kg,delivery_time_hrs,transport_cost,cost_per_kg,delayed
+distance_km,1.0,-0.02,0.84,0.45,0.34,0.08
+volume_kg,-0.02,1.0,0.0,0.03,-0.26,0.0
+delivery_time_hrs,0.84,0.0,1.0,-0.06,-0.05,0.18
+transport_cost,0.45,0.03,-0.06,1.0,0.73,0.04
+cost_per_kg,0.34,-0.26,-0.05,0.73,1.0,0.01
+delayed,0.08,0.0,0.18,0.04,0.01,1.0
